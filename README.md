@@ -11,13 +11,25 @@
 
 ## 🧑‍💻 My Coding Profiles
 
-<p align="left">
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ved2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ved2004" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vedantvaghasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vedantvaghasiya" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/vedant_vaghasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/vedant_vaghasiya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vedant_vaghasiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vedant_vaghasiya/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/vedantcs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vedantcs/" height="30" width="40" /></a>
-</p>
+<table border="1">
+  <tr>
+    <td><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vedant_vaghasiya/" height="30" width="40" />LeetCode</td>
+    <td><a href="https://leetcode.com/u/vedant_vaghasiya/"> vedant_vaghasiya</a></td>
+  </tr>
+  
+  <tr>
+    <td><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/vedant_vaghasiya" height="30" width="40" />Codeforces</td>
+    <td><a href="https://codeforces.com/profile/vedant_vaghasiya">vedant_vaghasiya</a></td>
+  </tr>
+  
+  <tr>
+    <td><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ved2004" height="30" width="40" />CodeChef</td>
+    <td><a href="https://www.codechef.com/users/ved2004" style="color: white;">Ved2004</a></td>
+  </tr>
+  
+
+</table>
+
 
 ---
 ## 📈 GitHub Stats
@@ -33,6 +45,7 @@
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedantvaghasiya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantvaghasiya@gmail.com)
+
 
 
   </body>
