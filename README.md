@@ -12,10 +12,10 @@
 ## 🧑‍💻 My Coding Profiles
 
 <table border="1">
-<!--   <tr>
+  <tr>
     <td><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vedant_vaghasiya/" height="30" width="40" />LeetCode</td>
     <td><a href="https://leetcode.com/u/vedant_vaghasiya/"> vedant_vaghasiya</a></td>
-  </tr> -->
+  </tr>
   
   <tr>
     <td><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/vedant_vaghasiya" height="30" width="40" />Codeforces</td>
