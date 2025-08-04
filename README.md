@@ -1,7 +1,7 @@
 <html>
   <body>
     <h1 align="center">Hi 👋, I'm Vedant Vaghasiya!</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantvaghasiya" alt="vedantvaghasiya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantvaghasiya" alt="vedantvaghasiya" /></a> </p> 
 
 
 ## 💻 Languages and Tools
